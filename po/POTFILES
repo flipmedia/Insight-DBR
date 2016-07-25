@@ -1,0 +1,8 @@
+	../dbr.desktop.in \
+	../src/controlador.py \
+	../src/controlador.py.in \
+	../src/dbr.py \
+	../src/libro.py \
+	../src/registro.py \
+	../src/reproductor.py \
+	../src/vista.py

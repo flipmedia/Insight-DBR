@@ -1,0 +1,25 @@
+Source: dbr
+Section: python
+Priority: optioan
+Maintainer: Anes P A (Insight) <info@insight.org.in>
+Build-Depends: debhelper (>=9),
+# dh-autoreconf,
+ python,
+ gettext,
+ python-gst0.10
+Standards-Version: 3.9.6
+Homepage: www.insight.org.in
+
+Package: dbr
+Architecture: all
+Depends: ${misc:Depends}, ${python:Depends}, 
+ python-gtk2,
+ python-gst0.10
+Description: Access and read books in the Daisy 2.02 standard
+ Insight DBR is an application for accessing and reading books in the Daisy 2.02
+ standard. Although Daisy 3.0 is not supported, we are working to have it in
+ the future.
+ .
+ Daisy books are also known as DTB's (Digital/Daisy Talking Books.
+ .
+ DBR uses GTK (PyGTK) for the interface and Gstreamer for audio output (PyGST).

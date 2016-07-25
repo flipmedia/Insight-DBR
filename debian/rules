@@ -1,0 +1,8 @@
+#!/usr/bin/make -f
+
+%:
+	dh $@ 
+
+# Use this line instead of the above if you wish to use autoreconf
+# also uncomment dh-autoreconf as a build-dep in the control file
+#	dh $@ --with autoreconf 

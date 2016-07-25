@@ -1,0 +1,434 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-04-15 11:29+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../dbr.desktop.in.h:1
+msgid "Insight Daisy Book Reader"
+msgstr ""
+
+#: ../dbr.desktop.in.h:2
+msgid "Read Daisy Talking Books"
+msgstr ""
+
+#. Creating a new control file selection
+#: ../src/controlador.py:92 ../src/controlador.py.in:92
+msgid "Open book"
+msgstr ""
+
+#: ../src/controlador.py:117 ../src/controlador.py.in:117
+msgid "Failed to open"
+msgstr ""
+
+#: ../src/controlador.py:117 ../src/controlador.py.in:117
+msgid " The book can not be opened"
+msgstr ""
+
+#: ../src/controlador.py:119 ../src/controlador.py.in:119
+msgid "Cancelled selection"
+msgstr ""
+
+#: ../src/controlador.py:119 ../src/controlador.py.in:119
+msgid "No book has been selected"
+msgstr ""
+
+#: ../src/controlador.py:141 ../src/controlador.py:176
+#: ../src/controlador.py.in:141 ../src/controlador.py.in:176
+msgid "Find books"
+msgstr ""
+
+#: ../src/controlador.py:141 ../src/controlador.py:176
+#: ../src/controlador.py.in:141 ../src/controlador.py.in:176
+msgid "Choose the book which you want to open"
+msgstr ""
+
+#: ../src/controlador.py:151 ../src/controlador.py:155
+#: ../src/controlador.py:186 ../src/controlador.py:190
+#: ../src/controlador.py:231 ../src/controlador.py:248
+#: ../src/controlador.py:269 ../src/controlador.py:287
+#: ../src/controlador.py:314 ../src/controlador.py:343
+#: ../src/controlador.py:375 ../src/controlador.py:420
+#: ../src/controlador.py:426 ../src/controlador.py:451
+#: ../src/controlador.py:455 ../src/controlador.py:459
+#: ../src/controlador.py:477 ../src/controlador.py:492
+#: ../src/controlador.py:506 ../src/controlador.py:520
+#: ../src/controlador.py:534 ../src/controlador.py:549
+#: ../src/controlador.py:569 ../src/controlador.py:575
+#: ../src/controlador.py:587 ../src/controlador.py:599
+#: ../src/controlador.py:608 ../src/controlador.py:617
+#: ../src/controlador.py:639 ../src/controlador.py:663
+#: ../src/controlador.py:665 ../src/controlador.py:669
+#: ../src/controlador.py:691 ../src/controlador.py:693
+#: ../src/controlador.py:697 ../src/controlador.py.in:151
+#: ../src/controlador.py.in:155 ../src/controlador.py.in:186
+#: ../src/controlador.py.in:190 ../src/controlador.py.in:231
+#: ../src/controlador.py.in:248 ../src/controlador.py.in:269
+#: ../src/controlador.py.in:287 ../src/controlador.py.in:314
+#: ../src/controlador.py.in:343 ../src/controlador.py.in:375
+#: ../src/controlador.py.in:420 ../src/controlador.py.in:426
+#: ../src/controlador.py.in:451 ../src/controlador.py.in:455
+#: ../src/controlador.py.in:459 ../src/controlador.py.in:477
+#: ../src/controlador.py.in:492 ../src/controlador.py.in:506
+#: ../src/controlador.py.in:520 ../src/controlador.py.in:534
+#: ../src/controlador.py.in:549 ../src/controlador.py.in:569
+#: ../src/controlador.py.in:575 ../src/controlador.py.in:587
+#: ../src/controlador.py.in:599 ../src/controlador.py.in:608
+#: ../src/controlador.py.in:617 ../src/controlador.py.in:639
+#: ../src/controlador.py.in:663 ../src/controlador.py.in:665
+#: ../src/controlador.py.in:669 ../src/controlador.py.in:691
+#: ../src/controlador.py.in:693 ../src/controlador.py.in:697
+msgid "Warning"
+msgstr ""
+
+#: ../src/controlador.py:151 ../src/controlador.py:186
+#: ../src/controlador.py.in:151 ../src/controlador.py.in:186
+msgid "Specified book doesn't match with the book currently in that path"
+msgstr ""
+
+#: ../src/controlador.py:153 ../src/controlador.py:188
+#: ../src/controlador.py.in:153 ../src/controlador.py.in:188
+msgid "You have not selected any book"
+msgstr ""
+
+#: ../src/controlador.py:155 ../src/controlador.py.in:155
+msgid "There are no saved books"
+msgstr ""
+
+#: ../src/controlador.py:190 ../src/controlador.py.in:190
+msgid "There are no recent books"
+msgstr ""
+
+#: ../src/controlador.py:227 ../src/controlador.py.in:227
+msgid "Book information"
+msgstr ""
+
+#: ../src/controlador.py:231 ../src/controlador.py:248
+#: ../src/controlador.py:269 ../src/controlador.py:314
+#: ../src/controlador.py:343 ../src/controlador.py:375
+#: ../src/controlador.py:426 ../src/controlador.py:459
+#: ../src/controlador.py:477 ../src/controlador.py:492
+#: ../src/controlador.py:506 ../src/controlador.py:520
+#: ../src/controlador.py:534 ../src/controlador.py:549
+#: ../src/controlador.py:575 ../src/controlador.py:587
+#: ../src/controlador.py:599 ../src/controlador.py:608
+#: ../src/controlador.py:617 ../src/controlador.py:639
+#: ../src/controlador.py:669 ../src/controlador.py:697
+#: ../src/controlador.py.in:231 ../src/controlador.py.in:248
+#: ../src/controlador.py.in:269 ../src/controlador.py.in:314
+#: ../src/controlador.py.in:343 ../src/controlador.py.in:375
+#: ../src/controlador.py.in:426 ../src/controlador.py.in:459
+#: ../src/controlador.py.in:477 ../src/controlador.py.in:492
+#: ../src/controlador.py.in:506 ../src/controlador.py.in:520
+#: ../src/controlador.py.in:534 ../src/controlador.py.in:549
+#: ../src/controlador.py.in:575 ../src/controlador.py.in:587
+#: ../src/controlador.py.in:599 ../src/controlador.py.in:608
+#: ../src/controlador.py.in:617 ../src/controlador.py.in:639
+#: ../src/controlador.py.in:669 ../src/controlador.py.in:697
+msgid "There are currently no playing book"
+msgstr ""
+
+#: ../src/controlador.py:244 ../src/controlador.py.in:244
+msgid "Book translation information"
+msgstr ""
+
+#: ../src/controlador.py:265 ../src/controlador.py.in:265
+msgid "Elapsed playback time"
+msgstr ""
+
+#: ../src/controlador.py:283 ../src/controlador.py.in:283
+msgid "Total book's playback time"
+msgstr ""
+
+#: ../src/controlador.py:287 ../src/controlador.py.in:287
+msgid "Tehre are currently no playing book"
+msgstr ""
+
+#: ../src/controlador.py:412 ../src/controlador.py:440
+#: ../src/controlador.py.in:412 ../src/controlador.py.in:440
+msgid "Go to chapter"
+msgstr ""
+
+#: ../src/controlador.py:412 ../src/controlador.py.in:412
+msgid "Select which chapter do you want to go"
+msgstr ""
+
+#: ../src/controlador.py:420 ../src/controlador.py.in:420
+msgid "You have not selected any chapter"
+msgstr ""
+
+#: ../src/controlador.py:422 ../src/controlador.py:453
+#: ../src/controlador.py:571 ../src/controlador.py:635
+#: ../src/controlador.py.in:422 ../src/controlador.py.in:453
+#: ../src/controlador.py.in:571 ../src/controlador.py.in:635
+msgid "Error"
+msgstr ""
+
+#: ../src/controlador.py:422 ../src/controlador.py.in:422
+msgid "Don't exist any chapter in the book"
+msgstr ""
+
+#: ../src/controlador.py:440 ../src/controlador.py.in:440
+msgid "Enter the chapter no which you want to go"
+msgstr ""
+
+#: ../src/controlador.py:451 ../src/controlador.py.in:451
+msgid "There is no chapter as given number"
+msgstr ""
+
+#: ../src/controlador.py:453 ../src/controlador.py.in:453
+msgid "Please give a number as chapter"
+msgstr ""
+
+#: ../src/controlador.py:455 ../src/controlador.py.in:455
+msgid "There is no chapter in the currently playing book"
+msgstr ""
+
+#. stop current playing file
+#: ../src/controlador.py:560 ../src/controlador.py.in:560
+msgid "Go to page"
+msgstr ""
+
+#: ../src/controlador.py:560 ../src/controlador.py.in:560
+msgid "Enter the page which you want to go"
+msgstr ""
+
+#: ../src/controlador.py:569 ../src/controlador.py.in:569
+msgid "Page out of range"
+msgstr ""
+
+#: ../src/controlador.py:571 ../src/controlador.py.in:571
+msgid "You have not entered a number"
+msgstr ""
+
+#: ../src/controlador.py:629 ../src/controlador.py.in:629
+msgid "Set bookmark"
+msgstr ""
+
+#: ../src/controlador.py:629 ../src/controlador.py.in:629
+msgid "Enter the bookmark name"
+msgstr ""
+
+#: ../src/controlador.py:635 ../src/controlador.py.in:635
+msgid "You have not entered a bookmark name"
+msgstr ""
+
+#: ../src/controlador.py:657 ../src/controlador.py.in:657
+msgid "Bookmark list"
+msgstr ""
+
+#: ../src/controlador.py:657 ../src/controlador.py.in:657
+msgid "Choose the bookmark which you want to go"
+msgstr ""
+
+#: ../src/controlador.py:663 ../src/controlador.py:691
+#: ../src/controlador.py.in:663 ../src/controlador.py.in:691
+msgid "You have not selected any bookmark"
+msgstr ""
+
+#: ../src/controlador.py:665 ../src/controlador.py.in:665
+msgid "There are not bookmarks for this book"
+msgstr ""
+
+#: ../src/controlador.py:687 ../src/controlador.py.in:687
+msgid "Bookmarks deletion"
+msgstr ""
+
+#: ../src/controlador.py:687 ../src/controlador.py.in:687
+msgid "Choose the bookmark which you want to delete"
+msgstr ""
+
+#: ../src/controlador.py:693 ../src/controlador.py.in:693
+msgid "Don't exist bookmarks for this book"
+msgstr ""
+
+#: ../src/controlador.py:805 ../src/controlador.py:864
+#: ../src/controlador.py.in:805 ../src/controlador.py.in:864
+msgid "Warning!"
+msgstr ""
+
+#: ../src/controlador.py:805 ../src/controlador.py:864
+#: ../src/controlador.py.in:805 ../src/controlador.py.in:864
+msgid "The help file can not be found"
+msgstr ""
+
+#. translations=_("This program has been translated by:\n\nJuan C. BuÃ±o\n")
+#: ../src/controlador.py:833 ../src/controlador.py.in:833
+msgid ""
+"This program is under GNU/General Public License version 3. This program is "
+"free software: you can \n"
+" redistribute it and/or modify it under the terms of the GNU General Public "
+"License as published \n"
+" by the Free Software Foundation, either version 3 of the License, or (at "
+"your\n"
+" option) any later version.\n"
+" This program is distributed in the hope that it will be useful, but WITHOUT "
+"ANY WARRANTY; without \n"
+" even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR "
+"PURPOSE.  See the \n"
+" GNU General Public License for more details. You should have received a "
+"copy of the GNU General Public License \n"
+" along with this program.  If not, see <http://www.gnu.org/licenses/>.You "
+"can also contact with the author of \n"
+" the program at <info@insight.org.in>."
+msgstr ""
+
+#: ../src/vista.py:66
+msgid "/_File"
+msgstr ""
+
+#: ../src/vista.py:67
+msgid "/File/_Open book"
+msgstr ""
+
+#: ../src/vista.py:68
+msgid "/File/_Find book"
+msgstr ""
+
+#: ../src/vista.py:69
+msgid "/File/_Close book"
+msgstr ""
+
+#: ../src/vista.py:70
+msgid "/File/_Quit"
+msgstr ""
+
+#: ../src/vista.py:72
+msgid "/_Controls"
+msgstr ""
+
+#. (_("/Controls/_Play-Pause"), "<control>space", self.c.control_estado_callback, 0, None),
+#. (_("/Controls/_Play-Pause"), "space", self.c.control_estado_callback, 0, None),
+#: ../src/vista.py:75
+msgid "/Controls/_Mute(Unmute)"
+msgstr ""
+
+#: ../src/vista.py:76
+msgid "/Controls/_Stop"
+msgstr ""
+
+#: ../src/vista.py:79
+msgid "/Controls/_Volume"
+msgstr ""
+
+#. (_("/Controls/Volume/Increase volume"), "<control>V", self.c.control_aumento_volumen_callback, 0, None),
+#: ../src/vista.py:81
+msgid "/Controls/Volume/Increase volume"
+msgstr ""
+
+#. (_("/Controls/Volume/Decrease volume"), "<control><shift>V", self.c.control_disminucion_volumen_callback, 0, None),
+#: ../src/vista.py:83
+msgid "/Controls/Volume/Decrease volume"
+msgstr ""
+
+#: ../src/vista.py:85
+msgid "/_Navigation"
+msgstr ""
+
+#. (_("/Navigation/Previous chapter"), "<control><shift>L", self.c.ir_cap_ant_callback, 0, None),
+#: ../src/vista.py:87
+msgid "/Navigation/Previous heading"
+msgstr ""
+
+#. (_("/Navigation/Next chapter"), "<control>L", self.c.ir_cap_sig_callback, 0, None),
+#: ../src/vista.py:89
+msgid "/Navigation/Next heading"
+msgstr ""
+
+#. (_("/Navigation/Previous page"), "<control><shift>N", self.c.ir_pag_ant_callback, 0, None),
+#. (_("/Navigation/Previous page"), "<control><shift>P", self.c.ir_pag_ant_callback, 0, None),
+#: ../src/vista.py:92
+msgid "/Navigation/Previous page"
+msgstr ""
+
+#. (_("/Navigation/Next page"), "<control>N", self.c.ir_pag_sig_callback, 0, None),
+#. (_("/Navigation/Next page"), "<control>P", self.c.ir_pag_sig_callback, 0, None),
+#: ../src/vista.py:95
+msgid "/Navigation/Next page"
+msgstr ""
+
+#: ../src/vista.py:96
+msgid "/Navigation/Previous paragraph"
+msgstr ""
+
+#: ../src/vista.py:97
+msgid "/Navigation/Next paragraph"
+msgstr ""
+
+#: ../src/vista.py:98
+msgid "/_GoTo"
+msgstr ""
+
+#: ../src/vista.py:99
+msgid "/GoTo/Chapter"
+msgstr ""
+
+#: ../src/vista.py:100
+msgid "/GoTo/Page"
+msgstr ""
+
+#: ../src/vista.py:101
+msgid "/GoTo/Recent Books"
+msgstr ""
+
+#: ../src/vista.py:102
+msgid "/GoTo/Chapter by Number"
+msgstr ""
+
+#: ../src/vista.py:103
+msgid "/_Bookmarks"
+msgstr ""
+
+#: ../src/vista.py:104
+msgid "/Bookmarks/_Set bookmark"
+msgstr ""
+
+#: ../src/vista.py:105
+msgid "/Bookmarks/_Delete bookmarks"
+msgstr ""
+
+#: ../src/vista.py:106
+msgid "/Bookmarks/_List bookmarks"
+msgstr ""
+
+#: ../src/vista.py:107
+msgid "/_Info"
+msgstr ""
+
+#: ../src/vista.py:108
+msgid "/Info/_Book info"
+msgstr ""
+
+#: ../src/vista.py:109
+msgid "/Info/Book _translation information"
+msgstr ""
+
+#: ../src/vista.py:110
+msgid "/Info/Playback _duration"
+msgstr ""
+
+#: ../src/vista.py:111
+msgid "/Info/Total play _duration"
+msgstr ""
+
+#: ../src/vista.py:112
+msgid "/_Help"
+msgstr ""
+
+#. (_("/Help/_User help"), "<control>u", self.c.mostrar_ayuda_callback, 0, None),
+#: ../src/vista.py:114
+msgid "/Help/_About DBR"
+msgstr ""

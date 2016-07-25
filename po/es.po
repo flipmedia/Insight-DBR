@@ -1,0 +1,362 @@
+# DBR Daisy Book Reader.
+# Copyright (C) 2008 Rafael Cantos Villanueva
+# This file is distributed under the same license as the DBR package.
+# Rafael Cantos Villanueva <rafaelcantos@hotmail.com>, 2008.
+# Juan C. Buño <quetzatl@eresmas.net>, 2008.
+# 
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: DBR v-0.1.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-09-19 20:19+0200\n"
+"PO-Revision-Date: 2008-09-19 20:27+0200\n"
+"Last-Translator: Francisco Javier Dorado Martínez <javier@tiflolinux.org>\n"
+"Language-Team: Spanish <es@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit"
+
+#: ../dbr.desktop.in.h:1
+msgid "DBR Daisy Book Reader"
+msgstr "DBR Daisy Book Reader"
+
+#: ../dbr.desktop.in.h:2
+msgid "Read Daisy Talking Books"
+msgstr "Lee Libros Hablados en Daisy"
+
+#. Creacion de un nuevo control de seleccion de fichero#: ../src/controlador.py.in:80
+msgid "Open book"
+msgstr "Abrir libro"
+
+#: ../src/controlador.py.in:100
+msgid "Failed to open"
+msgstr "Falló al abrir"
+
+#: ../src/controlador.py.in:100
+msgid " The book can not be opened"
+msgstr " El libro no pudo ser abierto"
+
+#: ../src/controlador.py.in:104
+msgid "Canceled selection"
+msgstr "Selección cancelada"
+
+#: ../src/controlador.py.in:104
+msgid "No book has been selected"
+msgstr "El libro no ha sido seleccionado"
+
+#: ../src/controlador.py.in:124
+msgid "Find books"
+msgstr "Buscar libros"
+
+#: ../src/controlador.py.in:124
+msgid "Choose the book which you want to open"
+msgstr "Elige el libro que quieres abrir"
+
+#: ../src/controlador.py.in:134 ../src/controlador.py.in:138
+#: ../src/controlador.py.in:180 ../src/controlador.py.in:197
+#: ../src/controlador.py.in:218 ../src/controlador.py.in:236
+#: ../src/controlador.py.in:269 ../src/controlador.py.in:289
+#: ../src/controlador.py.in:309 ../src/controlador.py.in:315
+#: ../src/controlador.py.in:329 ../src/controlador.py.in:343
+#: ../src/controlador.py.in:357 ../src/controlador.py.in:371
+#: ../src/controlador.py.in:385 ../src/controlador.py.in:399
+#: ../src/controlador.py.in:419 ../src/controlador.py.in:425
+#: ../src/controlador.py.in:435 ../src/controlador.py.in:445
+#: ../src/controlador.py.in:455 ../src/controlador.py.in:477
+#: ../src/controlador.py.in:501 ../src/controlador.py.in:503
+#: ../src/controlador.py.in:507 ../src/controlador.py.in:529
+#: ../src/controlador.py.in:531 ../src/controlador.py.in:535
+msgid "Warning"
+msgstr "Aviso"
+
+#: ../src/controlador.py.in:134
+msgid "Specified book doesn't match with the book currently in that path"
+msgstr ""
+"El libro especificado no es igual al libro que actualmente está en la ruta"
+
+#: ../src/controlador.py.in:136
+msgid "You have not selected any book"
+msgstr "No has seleccionado ningún libro"
+
+#: ../src/controlador.py.in:138
+msgid "There are no saved books"
+msgstr "No hay libros guardados"
+
+#: ../src/controlador.py.in:176
+msgid "Book information"
+msgstr "Información sobre el libro"
+
+#: ../src/controlador.py.in:180
+msgid "There are currently nno playing book"
+msgstr "Actualmente no hay libros en reproducción"
+
+#: ../src/controlador.py.in:193
+msgid "Book translation information"
+msgstr "Información sobre la traducción del libro"
+
+#: ../src/controlador.py.in:197 ../src/controlador.py.in:289
+#: ../src/controlador.py.in:315 ../src/controlador.py.in:329
+#: ../src/controlador.py.in:343 ../src/controlador.py.in:357
+#: ../src/controlador.py.in:435 ../src/controlador.py.in:445
+#: ../src/controlador.py.in:455 ../src/controlador.py.in:477
+msgid "There are currently no playing book"
+msgstr "Actualmente no hay libros en reproducción"
+
+#: ../src/controlador.py.in:214
+msgid "Elapsed playback time"
+msgstr "Tiempo restante de reproducción"
+
+#: ../src/controlador.py.in:218 ../src/controlador.py.in:236
+#: ../src/controlador.py.in:269 ../src/controlador.py.in:371
+#: ../src/controlador.py.in:385 ../src/controlador.py.in:399
+#: ../src/controlador.py.in:425 ../src/controlador.py.in:507
+#: ../src/controlador.py.in:535
+msgid "Tehre are currently no playing book"
+msgstr "Actualmente no hay libros en reproducción"
+
+#: ../src/controlador.py.in:232
+msgid "Total book's playback time"
+msgstr "Tiempo total de reproducción del libro"
+
+#: ../src/controlador.py.in:303
+msgid "Goo to chapter"
+msgstr "Ir al capítulo"
+
+#: ../src/controlador.py.in:303
+msgid "Select which chapter do you want to go"
+msgstr "Selecciona a qué capítulo quieres ir"
+
+#: ../src/controlador.py.in:309
+msgid "You have not selected any chapter"
+msgstr "No has seleccionado ningún capítulo"
+
+#: ../src/controlador.py.in:311 ../src/controlador.py.in:421
+#: ../src/controlador.py.in:473
+msgid "Error"
+msgstr "Error"
+
+#: ../src/controlador.py.in:311
+msgid "Don't exist any chapter in the book"
+msgstr "No existe ningún capítulo en el libro"
+
+#: ../src/controlador.py.in:411
+msgid "Go to page"
+msgstr "ir a la página"
+
+#: ../src/controlador.py.in:411
+msgid "Enter the page which you want to go"
+msgstr "Introduce la página a la que quieres ir"
+
+#: ../src/controlador.py.in:419
+msgid "Page out of range"
+msgstr "Página fuera de rango"
+
+#: ../src/controlador.py.in:421
+msgid "You have not entered a number"
+msgstr "No has introducido un número"
+
+#: ../src/controlador.py.in:467
+msgid "Set bookmark"
+msgstr "Poner marca"
+
+#: ../src/controlador.py.in:467
+msgid "Enter the bookmark name"
+msgstr "Introduce el nombre de la marca"
+
+#: ../src/controlador.py.in:473
+msgid "You have not entered a bookmark name"
+msgstr "No has introducido un nombre de marca"
+
+#: ../src/controlador.py.in:495
+msgid "Bookmark list"
+msgstr "Lista de marcas"
+
+#: ../src/controlador.py.in:495
+msgid "Choose the bookmark which you want to go"
+msgstr "Elige la marca a la que quieres ir"
+
+#: ../src/controlador.py.in:501 ../src/controlador.py.in:529
+msgid "You have not selected any bookmark"
+msgstr "No has seleccionado ninguna marca"
+
+#: ../src/controlador.py.in:503
+msgid "There are not bookmarks for this book"
+msgstr "No hay marcas para este libro"
+
+#: ../src/controlador.py.in:525
+msgid "Bookmarks deletion"
+msgstr "Eliminación de marcas"
+
+#: ../src/controlador.py.in:525
+msgid "Choose the bookmark which you want to delete"
+msgstr "Elige la marca que quieres eliminar"
+
+#: ../src/controlador.py.in:531
+msgid "Don't exist bookmarks for this book"
+msgstr "No existen marcas para este libro"
+
+#: ../src/controlador.py.in:615 ../src/controlador.py.in:675
+msgid "Warning!"
+msgstr "¡Aviso!"
+
+#: ../src/controlador.py.in:615 ../src/controlador.py.in:675
+msgid "The help file can not be found"
+msgstr "El fichero de ayuda no pudo ser encontrado"
+
+#: ../src/controlador.py.in:638
+msgid ""
+"This program has been translated by:\n"
+"\n"
+"Juan C. BuÃ±o\n"
+msgstr ""
+"Este programa ha sido traducido por:\n"
+"\n"
+"Juan C. Buño\n"
+
+#: ../src/controlador.py.in:639
+msgid ""
+"This program is under GNU/General Public License version 3. See accompanying "
+"COPYING file for more details."
+msgstr "Este programa está sujeto a los términos de la licencia pública general GPL v3. Vea el archivo COPYING para más detalles."
+
+#: ../src/vista.py:62
+msgid "/_File"
+msgstr "/_Archivo"
+
+#: ../src/vista.py:63
+msgid "/File/_Open book"
+msgstr "/Archivo/_Abrir libro"
+
+#: ../src/vista.py:64
+msgid "/File/_Find book"
+msgstr "/Archivo/_Buscar libro"
+
+#: ../src/vista.py:65
+msgid "/File/_Close book"
+msgstr "/Archivo/_Cerrar libro"
+
+#: ../src/vista.py:66
+msgid "/File/_Quit"
+msgstr "/Archivo/_Salir"
+
+#: ../src/vista.py:68
+msgid "/_Controls"
+msgstr "/_Controles"
+
+#: ../src/vista.py:69
+msgid "/Controls/_Play-Pause"
+msgstr "/Controles/_Reproducir-Pausa"
+
+#: ../src/vista.py:70
+msgid "/Controls/_Mute"
+msgstr "/Controles/_Silenciar"
+
+#: ../src/vista.py:71
+msgid "/Controls/_Stop"
+msgstr "/Controles/_Detener"
+
+#: ../src/vista.py:72
+msgid "/Controls/_Volume"
+msgstr "/Controles/_Volumen"
+
+#: ../src/vista.py:73
+msgid "/Controls/Volume/Increase volume"
+msgstr "/Controles/Volumen/Incrementar volumen"
+
+#: ../src/vista.py:74
+msgid "/Controls/Volume/Decrease volume"
+msgstr "/Controles/Volumen/Decrementar volumen"
+
+#: ../src/vista.py:76
+msgid "/_Navigation"
+msgstr "/_Navegación"
+
+#: ../src/vista.py:77
+msgid "/Navigation/Previous chapter"
+msgstr "/Navegación/Capítulo anterior"
+
+#: ../src/vista.py:78
+msgid "/Navigation/Next chapter"
+msgstr "/Navegación/Capítulo siguiente"
+
+#: ../src/vista.py:79
+msgid "/Navigation/Previous page"
+msgstr "/Navegación/Página anterior"
+
+#: ../src/vista.py:80
+msgid "/Navigation/Next page"
+msgstr "/Navegación/Página siguiente"
+
+#: ../src/vista.py:81
+msgid "/Navigation/Previous paragraph"
+msgstr "/Navegación/Párrafo anterior"
+
+#: ../src/vista.py:82
+msgid "/Navigation/Next paragraph"
+msgstr "/Navegación/Párrafo siguiente"
+
+#: ../src/vista.py:83
+msgid "/_GoTo"
+msgstr "/_Ir"
+
+#: ../src/vista.py:84
+msgid "/GoTo/Chapter"
+msgstr "/Ir/Capítulo"
+
+#: ../src/vista.py:85
+msgid "/GoTo/Page"
+msgstr "/Ir/Página"
+
+#: ../src/vista.py:86
+msgid "/_Bookmarks"
+msgstr "/_Marcas"
+
+#: ../src/vista.py:87
+msgid "/Bookmarks/_Set bookmark"
+msgstr "/Marcas/_Poner marca"
+
+#: ../src/vista.py:88
+msgid "/Bookmarks/_Delete bookmarks"
+msgstr "/Marcas/_Eliminar marca"
+
+#: ../src/vista.py:89
+msgid "/Bookmarks/_List bookmarks"
+msgstr "/Marcas/_Lista de marcas"
+
+#: ../src/vista.py:90
+msgid "/_Info"
+msgstr "/_Información"
+
+#: ../src/vista.py:91
+msgid "/Info/_Book info"
+msgstr "/Información/_Información del libro"
+
+#: ../src/vista.py:92
+msgid "/Info/Book _translation information"
+msgstr "/Información/Información de la _traducción del libro"
+
+#: ../src/vista.py:93
+msgid "/Info/Playback _duration"
+msgstr "/Información/_Tiempo actual de reproducción"
+
+#: ../src/vista.py:94
+msgid "/Info/Total play _duration"
+msgstr "/Información/_duración total de la reproducción"
+
+#: ../src/vista.py:95
+msgid "/_Help"
+msgstr "/_Ayuda"
+
+#: ../src/vista.py:96
+msgid "/Help/_User help"
+msgstr "/Ayuda/Ayuda del _Usuario"
+
+#: ../src/vista.py:97
+msgid "/Help/_About DBR"
+msgstr "/Ayuda/_Acerca de DBR"
+
+#: ../src/vista.py:98
+msgid "/Help/_License"
+msgstr "/Ayuda/_Licencia"
+

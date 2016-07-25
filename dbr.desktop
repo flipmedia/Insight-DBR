@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Insight Daisy Book Reader
+Comment=Read Daisy Talking Books
+Comment[es]=Lee Libros Hablados en Daisy
+Comment[gl]=Le Libros Falados en Daisy
+Exec=dbr
+Icon=dbr
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=GNOME;GTK;AudioVideo;
+
